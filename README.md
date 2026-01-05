@@ -1,5 +1,5 @@
 # 🏦 Bank Marketing Campaign Prediction
-This project analyzes a bank marketing dataset to predict whether a customer will subscribe to a term deposit based on demographics, account details, and past interactions. It applies multiple classification models (Logistic Regression, Random Forest, Gradient Boosting, SVM) and evaluates them using Accuracy, F1-Score, ROC-AUC, and Confusion Matrices. Explainable AI techniques (SHAP) are used to interpret model predictions and understand customer behavior for targeted marketing strategies.
+-  This project analyzes a bank marketing dataset to predict whether a customer will subscribe to a term deposit based on demographics, account details, and past interactions. It applies multiple classification models (Logistic        Regression, Random Forest, Gradient Boosting, SVM) and evaluates them using Accuracy, F1-Score, ROC-AUC, and Confusion Matrices. Explainable AI techniques (SHAP) are used to interpret model predictions and understand customer behavior for targeted marketing strategies.
 ---
 
 ## 📂 Dataset
