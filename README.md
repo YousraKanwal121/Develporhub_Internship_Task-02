@@ -88,3 +88,24 @@ The goal is to predict whether a customer will subscribe to a term deposit.
 This project demonstrates how machine learning can be used to predict bank customer behavior and provide actionable insights for marketing campaigns.  
 By applying multiple models and using explainable AI, we can better understand why customers subscribe and optimize marketing efforts accordingly.  
 
+
+---
+
+### TASK Plots Preview:-
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/Random%20Forest%20Classifier.png)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/random%20Forest%20Roc%20Curve.png)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/Logistic%20Regression.png)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/Roc%20Curve%20Graph.png)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/Gradient%20Boosting.png)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/Support%20Vector%20Machine.png)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-02/blob/main/Job%20VS%20Deposit.png)
+
+
+
+
+
+
+
+---
+
+
